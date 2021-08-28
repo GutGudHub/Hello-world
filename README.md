@@ -2,4 +2,4 @@
 My first test repo
 
 This is the new test text
-Trying to out merge conflicts
+Lets just all get together and resolve this conflict.
